@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "repository": "mstelz/test-repo-pls-ignore",
+  "item": {
+    "provider": "github",
+    "backlog": "PVT_kwHOAETBZ84BqGjf",
+    "id": "I_kwDOViNEiM8AAAABcgP0zg"
+  },
+  "reference": "#13",
+  "url": "https://github.com/mstelz/test-repo-pls-ignore/issues/13"
+}
