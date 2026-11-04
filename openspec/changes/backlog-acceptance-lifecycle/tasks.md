@@ -1,0 +1,1 @@
+- [x] 1.1 Add the backlog lifecycle acceptance marker (✓ README content verified)

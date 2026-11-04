@@ -1,0 +1,5 @@
+# BEGIN lets-spec skills. lets sync rewrites this block: change lets-spec, not this text.
+/.agents/skills/lets-*
+/.agents/skills/openspec-*
+/openspec/schemas/lets-*
+# END lets-spec skills
